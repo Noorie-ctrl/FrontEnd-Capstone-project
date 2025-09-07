@@ -1,6 +1,6 @@
 import Secureee from "../assets/secure.png"
 import Delivery from "../assets/delivery.png"
-import Services from "../assets/services.png"
+import Services from "../assets/Services.png"
 
 
 
