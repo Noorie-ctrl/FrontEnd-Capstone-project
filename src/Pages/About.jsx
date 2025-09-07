@@ -1,6 +1,6 @@
 import African from "../assets/African.png"
 import Money from "../assets/money.png"
-import Bag from "../assets/Bag.png"
+import Bag from "../assets/bag.png"
 import Shop from "../assets/shop.png"
 import Sale from "../assets/sale.png"
 import Image1 from "../assets/image 46.png"
